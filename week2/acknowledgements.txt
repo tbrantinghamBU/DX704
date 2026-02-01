@@ -1,0 +1,2 @@
+video_modeling_time_series_with_statsmodels.ipynb followed
+I used inline Copilot help in VS Code for syntax help
