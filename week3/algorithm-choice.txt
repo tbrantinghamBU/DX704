@@ -1,0 +1,1 @@
+Tuned UCB is my chosen algorithm because, unlike ε‑greedy (which keeps wasting pulls on inferior arms due to its fixed random exploration) it uses well‑calibrated, variance‑aware confidence bounds to achieve far more efficient logarithmic‑regret learning.

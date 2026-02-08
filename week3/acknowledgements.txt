@@ -1,0 +1,3 @@
+Followed example notebooks provided by the professor.
+I used inline Copilot help in VS Code for syntax help.
+I have flake8 linter installed for code cleanup.
