@@ -1,0 +1,1 @@
+Followed example notebooks provided by the professor in 704 examples folder. I also have a code linter in VS Code to clean up my code.
