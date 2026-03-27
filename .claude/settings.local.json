@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -lh *.tsv)",
+      "Bash(wc -l *.tsv)",
+      "Read(//c/Users/Tyler Brantingham/Python/DX704/week9/**)",
+      "Bash(sed -n '1p;2p;2p;51p;101p' train-predictions.tsv)",
+      "Bash(sed -n '1p;2p;51p;101p' test-predictions.tsv)"
+    ]
+  }
+}
