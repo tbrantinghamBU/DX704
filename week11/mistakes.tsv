@@ -1,6 +1,6 @@
 query	target_category	predicted_category
-Electric water heater is leaking badly	plumbing	plumbing
+Basement water pipe flooding due to clogged gutter	roofing	plumbing
 Water dripping from my light fixture	electrical	plumbing
-Roof drain keeps backing up into the attic	roofing	roofing
-Plumber said I need to repipe through the ceiling, now it leaks	plumbing	plumbing
-Sump pump won't turn on, circuit may be fried	plumbing	electrical
+My plumber fixed old rusty pipes to find roof problem	roofing	plumbing
+The electrical circuit that shocked my water lines	plumbing	electrical
+Sump pump won't turn on, electrical circuit may be fried	plumbing	electrical
