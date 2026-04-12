@@ -1,0 +1,2 @@
+Classify the home service request as electrical, plumbing, or roofing. Reply with one word.
+Query: {query}

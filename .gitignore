@@ -1,1 +1,8 @@
 .claude/
+*.npy
+*.zip
+*.gz
+*.tar.gz
+*.zip.1
+*.zip.2
+*.zip.3
