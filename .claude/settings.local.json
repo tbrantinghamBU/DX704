@@ -7,7 +7,8 @@
       "Bash(sed -n '1p;2p;2p;51p;101p' train-predictions.tsv)",
       "Bash(sed -n '1p;2p;51p;101p' test-predictions.tsv)",
       "Bash(awk -F'\\\\t' '{print \"\"\"\"Columns: \"\"\"\" NF}')",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "Bash(python3:*)"
     ]
   }
 }
